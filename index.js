@@ -9,8 +9,16 @@ async function getWeatherData(location) {
 	);
 
 	let data = await weatherData.json();
-	console.log(await data);
 	return data;
 }
 
-getWeatherData("manila");
+document.getElementById("weather-form").addEventListener("submit", (e) => {
+	e.preventDefault();
+	const location = document.getElementById("location").value;
+	getWeatherData(location).then((data) => {
+		console.log(data);
+		document.getElementById("weather-results").innerHTML = JSON.stringify(
+			data.main
+		);
+	});
+});
