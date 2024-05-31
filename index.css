@@ -1,0 +1,230 @@
+/* Gruppo 2xx: Temporale */
+.bg-200 {
+	background-image: linear-gradient(to right, #536976, #292e49);
+}
+
+.bg-201 {
+	background-image: linear-gradient(to right, #536976, #292e49);
+}
+
+.bg-202 {
+	background-image: linear-gradient(to right, #536976, #292e49);
+}
+
+.bg-210 {
+	background-image: linear-gradient(to right, #536976, #292e49);
+}
+
+.bg-211 {
+	background-image: linear-gradient(to right, #536976, #292e49);
+}
+
+.bg-212 {
+	background-image: linear-gradient(to right, #536976, #292e49);
+}
+
+.bg-221 {
+	background-image: linear-gradient(to right, #536976, #292e49);
+}
+
+.bg-230 {
+	background-image: linear-gradient(to right, #536976, #292e49);
+}
+
+.bg-231 {
+	background-image: linear-gradient(to right, #536976, #292e49);
+}
+
+.bg-232 {
+	background-image: linear-gradient(to right, #536976, #292e49);
+}
+
+/* Gruppo 3xx: Pioggerella */
+.bg-300 {
+	background-image: linear-gradient(to right, #314755, #26a0da);
+}
+
+.bg-301 {
+	background-image: linear-gradient(to right, #314755, #26a0da);
+}
+
+.bg-302 {
+	background-image: linear-gradient(to right, #314755, #26a0da);
+}
+
+.bg-310 {
+	background-image: linear-gradient(to right, #314755, #26a0da);
+}
+
+.bg-311 {
+	background-image: linear-gradient(to right, #314755, #26a0da);
+}
+
+.bg-312 {
+	background-image: linear-gradient(to right, #314755, #26a0da);
+}
+
+.bg-313 {
+	background-image: linear-gradient(to right, #314755, #26a0da);
+}
+
+.bg-314 {
+	background-image: linear-gradient(to right, #314755, #26a0da);
+}
+
+.bg-321 {
+	background-image: linear-gradient(to right, #314755, #26a0da);
+}
+
+/* Gruppo 5xx: Pioggia */
+.bg-500 {
+	background-image: linear-gradient(to right, #283048, #859398);
+}
+
+.bg-501 {
+	background-image: linear-gradient(to right, #283048, #859398);
+}
+
+.bg-502 {
+	background-image: linear-gradient(to right, #283048, #859398);
+}
+
+.bg-503 {
+	background-image: linear-gradient(to right, #283048, #859398);
+}
+
+.bg-504 {
+	background-image: linear-gradient(to right, #283048, #859398);
+}
+
+.bg-511 {
+	background-image: linear-gradient(to right, #283048, #859398);
+}
+
+.bg-520 {
+	background-image: linear-gradient(to right, #283048, #859398);
+}
+
+.bg-521 {
+	background-image: linear-gradient(to right, #283048, #859398);
+}
+
+.bg-522 {
+	background-image: linear-gradient(to right, #283048, #859398);
+}
+
+.bg-531 {
+	background-image: linear-gradient(to right, #283048, #859398);
+}
+
+/* Gruppo 6xx: Neve */
+.bg-600 {
+	background-image: linear-gradient(to right, #fff1eb, #ace0f9);
+}
+
+.bg-601 {
+	background-image: linear-gradient(to right, #fff1eb, #ace0f9);
+}
+
+.bg-602 {
+	background-image: linear-gradient(to right, #fff1eb, #ace0f9);
+}
+
+.bg-611 {
+	background-image: linear-gradient(to right, #fff1eb, #ace0f9);
+}
+
+.bg-612 {
+	background-image: linear-gradient(to right, #fff1eb, #ace0f9);
+}
+
+.bg-613 {
+	background-image: linear-gradient(to right, #fff1eb, #ace0f9);
+}
+
+.bg-615 {
+	background-image: linear-gradient(to right, #fff1eb, #ace0f9);
+}
+
+.bg-616 {
+	background-image: linear-gradient(to right, #fff1eb, #ace0f9);
+}
+
+.bg-620 {
+	background-image: linear-gradient(to right, #fff1eb, #ace0f9);
+}
+
+.bg-621 {
+	background-image: linear-gradient(to right, #fff1eb, #ace0f9);
+}
+
+.bg-622 {
+	background-image: linear-gradient(to right, #fff1eb, #ace0f9);
+}
+
+/* Gruppo 7xx: Atmosfera */
+.bg-701 {
+	background-image: linear-gradient(to right, #e6dada, #274046);
+}
+
+.bg-711 {
+	background-image: linear-gradient(to right, #e6dada, #274046);
+}
+
+.bg-721 {
+	background-image: linear-gradient(to right, #e6dada, #274046);
+}
+
+.bg-731 {
+	background-image: linear-gradient(to right, #e6dada, #274046);
+}
+
+.bg-741 {
+	background-image: linear-gradient(to right, #e6dada, #274046);
+}
+
+.bg-751 {
+	background-image: linear-gradient(to right, #e6dada, #274046);
+}
+
+.bg-761 {
+	background-image: linear-gradient(to right, #e6dada, #274046);
+}
+
+.bg-762 {
+	background-image: linear-gradient(to right, #e6dada, #274046);
+}
+
+.bg-771 {
+	background-image: linear-gradient(to right, #e6dada, #274046);
+}
+
+.bg-781 {
+	background-image: linear-gradient(to right, #e6dada, #274046);
+}
+
+/* Gruppo 800: Sereno */
+.bg-800 {
+	background-image: linear-gradient(to right, #2bc0e4, #eaecc6);
+}
+
+/* Gruppo 80x: Nuvole */
+.bg-801 {
+	background-image: linear-gradient(to right, #2bc0e4, #eaecc6);
+}
+
+.bg-802 {
+	background-image: linear-gradient(to right, #9fe9ff, #dbdbdb);
+}
+
+.bg-803 {
+	background-image: linear-gradient(to right, #bdc3c7, #2c3e50);
+}
+
+.bg-804 {
+	background-image: linear-gradient(to right, #bdc3c7, #2c3e50);
+}
+
+body {
+	transition: background-color 0.5s linear; /* transizione lineare di 0.5 secondi */
+}
