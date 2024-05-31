@@ -5,13 +5,27 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<title>Odin Weather</title>
 		<link rel="stylesheet" href="./index.css" />
+
+		<!--daisyui-->
+		<link
+			href="https://cdn.jsdelivr.net/npm/daisyui@4.11.1/dist/full.min.css"
+			rel="stylesheet"
+			type="text/css"
+		/>
+		<script src="https://cdn.tailwindcss.com"></script>
 	</head>
 	<body>
 		<h1>Odin's Weather</h1>
 		<form id="weather-form">
 			<label for="location">Location:</label>
-			<input type="text" name="location" id="location" />
-			<input type="submit" value="Get Weather" />
+			<input
+				type="text"
+				name="location"
+				id="location"
+				class="input input-bordered"
+				placeholder="Location"
+			/>
+			<input type="submit" value="Get Weather" class="btn btn-success" />
 		</form>
 		<div id="weather-results"></div>
 	</body>
