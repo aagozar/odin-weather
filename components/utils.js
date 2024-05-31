@@ -73,4 +73,6 @@ function getWeatherColor(code) {
 	return weatherCodeColors[code];
 }
 
-export default getWeatherColor;
+const delay = (ms) => new Promise((res) => setTimeout(res, ms));
+
+export { getWeatherColor, delay };

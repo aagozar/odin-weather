@@ -1,14 +1,20 @@
-import getWeatherColor from "./components/utils.js";
+import { delay } from "./components/utils.js";
 
 const API_KEY = "e3a5c6b612c645e8cbfc3859268ec981";
 
 async function getWeatherData(location) {
+	document.getElementById(
+		"weather-results"
+	).innerHTML = `<span class="loading loading-ring loading-lg"></span>`;
+
 	const weatherData = await fetch(
 		"https://api.openweathermap.org/data/2.5/weather?q=" +
 			location +
 			"&units=metric&appid=" +
 			API_KEY
 	);
+
+	await delay(5000);
 
 	let data = await weatherData.json();
 	return data;
