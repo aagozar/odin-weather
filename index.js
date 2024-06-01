@@ -14,7 +14,7 @@ async function getWeatherData(location) {
 			API_KEY
 	);
 
-	await delay(5000);
+	await delay(1000);
 
 	let data = await weatherData.json();
 	return data;
