@@ -50,6 +50,8 @@ document.getElementById("weather-form").addEventListener("submit", (e) => {
 		body.className = "";
 		body.classList.add(`bg-${weatherData.weather[0].id}`);
 		body.classList.add("h-screen");
+		body.classList.add("overflow-x-hidden");
+		body.classList.add("w-full");
 		console.log(weatherData.weather[0].id);
 	});
 });
